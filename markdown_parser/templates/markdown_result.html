@@ -1,0 +1,21 @@
+<!-- markdown_result.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Markdown Result</title>
+</head>
+<body>
+    <h1>Markdown to HTML Raw</h1>
+    <div>
+        {{ html_output }}
+    </div>
+
+    <h1>Markdown to HTML Result</h1>
+    <div>
+        {{ html_output | safe }}
+    </div>
+    <a href="{% url 'markdown_to_html' %}">Convert another</a>
+</body>
+</html>
