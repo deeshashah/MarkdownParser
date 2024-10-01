@@ -93,3 +93,6 @@ C) Paragraphs
 1. Doing what it is expected to do. 
 2. Trailing white spaces not ignored at beginning. 
 3. Works with hyperlinks
+
+   <img width="815" alt="image" src="https://github.com/user-attachments/assets/1ee3ba35-32b6-4086-836f-26ed90b5890e">
+
