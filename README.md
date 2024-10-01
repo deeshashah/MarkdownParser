@@ -3,6 +3,14 @@
 
 This project builds a UI form which takes in some markdown text as input and outputs the markdown format as well as the HTML version of it. 
 
+<img width="767" alt="Screen Shot 2024-09-30 at 5 25 08 PM" src="https://github.com/user-attachments/assets/ea28b1ff-ed96-4c7c-a944-c49464dbf191">
+
+<img width="767" alt="Screen Shot 2024-09-30 at 5 25 27 PM" src="https://github.com/user-attachments/assets/e2884cf9-1968-4b79-a5f3-706f4af0052e">
+
+
+
+### Instructions
+
 Follow these steps to get your development environment set up:
 
 1. Clone the repository:
