@@ -92,4 +92,4 @@ C) Paragraphs
 
 1. Doing what it is expected to do. 
 2. Trailing white spaces not ignored at beginning. 
-3. Input --> Hello <p> there
+3. Works with hyperlinks
